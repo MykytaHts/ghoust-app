@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435965282170",
+    "project_id": "deepblog-9e131",
+    "storage_bucket": "deepblog-9e131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435965282170:android:52408d90605ad48a9d78c3",
+        "android_client_info": {
+          "package_name": "com.example.deepstatebllog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_PkQSZDcbEZwrKfxeKyFZkj-hySWjq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
